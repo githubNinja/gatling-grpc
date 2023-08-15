@@ -16,5 +16,5 @@ It includes:
 * proper source file layout
   * both the `test` and `it` (integration test) configurations are shown
 * How to run the Test
-   Compile ->  sbt ;reload;compile;compile;
-   Run ->  sbt gatling-it:test
+  * Compile ->  sbt ;reload;compile;compile;
+  * Run ->  sbt gatling-it:test
